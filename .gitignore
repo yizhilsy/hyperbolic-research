@@ -1,0 +1,5 @@
+# 忽略生成的张量文件
+*.pt
+llava-hf/*
+meta-llama/*
+__pycache__/
